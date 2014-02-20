@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LOD
+namespace RealTimeRender
 {
     static class Program
     {
