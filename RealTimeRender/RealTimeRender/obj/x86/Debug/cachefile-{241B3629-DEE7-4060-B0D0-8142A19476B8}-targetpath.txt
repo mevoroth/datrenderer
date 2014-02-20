@@ -1,0 +1,5 @@
+Content\hight_res.xnb
+Content\low_res.xnb
+Content\mid_res.xnb
+Content\_hight_res.xnb
+Content\SpriteFont1.xnb
