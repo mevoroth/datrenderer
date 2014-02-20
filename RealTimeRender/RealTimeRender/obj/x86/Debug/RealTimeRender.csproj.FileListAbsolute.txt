@@ -9,3 +9,14 @@ C:\Users\skana\Documents\Visual Studio 2010\Projects\RealTimeRender\RealTimeRend
 C:\Users\skana\Documents\Visual Studio 2010\Projects\RealTimeRender\RealTimeRender\RealTimeRender\bin\x86\Debug\RealTimeRender.pdb
 C:\Users\skana\Documents\Visual Studio 2010\Projects\RealTimeRender\RealTimeRender\RealTimeRender\obj\x86\Debug\RealTimeRender.exe
 C:\Users\skana\Documents\Visual Studio 2010\Projects\RealTimeRender\RealTimeRender\RealTimeRender\obj\x86\Debug\RealTimeRender.pdb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\Content\hight_res.xnb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\Content\low_res.xnb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\Content\mid_res.xnb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\Content\_hight_res.xnb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\RealTimeRender.exe
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\bin\x86\Debug\RealTimeRender.pdb
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\obj\x86\Debug\RealTimeRender.csprojResolveAssemblyReference.cache
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\obj\x86\Debug\RealTimeRender.exe
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRender\obj\x86\Debug\RealTimeRender.pdb

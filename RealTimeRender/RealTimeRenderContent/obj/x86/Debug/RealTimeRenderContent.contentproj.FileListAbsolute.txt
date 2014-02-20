@@ -1,1 +1,2 @@
 C:\Users\skana\Documents\Visual Studio 2010\Projects\RealTimeRender\RealTimeRender\RealTimeRenderContent\obj\x86\Debug\RealTimeRenderContent.contentprojResolveAssemblyReference.cache
+E:\Users\Olivier\Documents\Visual Studio 2013\Projects\LOD\datrenderer\RealTimeRender\RealTimeRenderContent\obj\x86\Debug\RealTimeRenderContent.contentprojResolveAssemblyReference.cache
