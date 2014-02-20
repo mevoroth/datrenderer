@@ -1,6 +1,6 @@
 *.suo
 *.exe
-RealTimeRender/RealTimeRender/bin
-RealTimeRender/RealTimeRender/obj
-RealTimeRender/RealTimeRenderContent/bin
-RealTimeRender/RealTimeRenderContent/obj
+./RealTimeRender/RealTimeRender/bin
+./RealTimeRender/RealTimeRender/obj
+./RealTimeRender/RealTimeRenderContent/bin
+./RealTimeRender/RealTimeRenderContent/obj
