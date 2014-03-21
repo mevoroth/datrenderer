@@ -39,7 +39,7 @@ namespace RealTimeRender
 
         protected override void Initialize()
         {
-            camera = new Camera(graphics);
+            camera = new Camera(graphics, Content);
             camera.Initialize();
 
             base.Initialize();
@@ -104,7 +104,6 @@ namespace RealTimeRender
 				lookAt.X += 25f;
 			}
 
-            modelRotation += (float)gameTime.ElapsedGameTime.TotalMilliseconds * MathHelper.ToRadians(0.01f);
             base.Update(gameTime);
         }
 

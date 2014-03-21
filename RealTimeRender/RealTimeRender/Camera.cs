@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
 
 namespace RealTimeRender
 {
     class Camera : GameComponent
     {
-
         #region Properties
 
         private float distance;
@@ -21,6 +21,13 @@ namespace RealTimeRender
                 position = new Vector3(position.X, position.Y, distance);
             }
         }
+
+		private Vector3 target;
+		public Vector3 Target
+		{
+			get { return target; }
+			set { target = value; }
+		}
 
         private Vector3 position;
         public Vector3 Position
@@ -42,7 +49,9 @@ namespace RealTimeRender
 
         #endregion
 
-        public Camera(GraphicsDeviceManager graphics) : base(graphics){
+		public Camera(GraphicsDeviceManager graphics, ContentManager Content)
+			: base(graphics, Content)
+		{
 
         }
 
@@ -54,9 +63,15 @@ namespace RealTimeRender
 
             speed = 500;
             position = new Vector3(0f, 0f, Distance);
+			target = Vector3.Zero;
 
             aspectRatio = (float)graphics.GraphicsDevice.Viewport.Width / (float)graphics.GraphicsDevice.Viewport.Height;
         }
 
-    }
+
+		public override void Translate(Vector3 diff)
+		{
+			position += diff;
+		}
+	}
 }
